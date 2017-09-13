@@ -1,5 +1,5 @@
 # CampusEstore
-A website for students to rent books and tools from each other
+A website for students to rent books and tools from each other. The UI is not that spetacular but all the functions are working, such as database retriveing, register and login, adding to shopping cart, renting, paying transaction and etc. 
 
 Please refer to TeamPrototypeDesign.docx for all the details of the website
 
